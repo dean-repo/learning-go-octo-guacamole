@@ -28,3 +28,14 @@ https://www.jetbrains.com/go/
 https://www.golangprograms.com/dynamic-json-parser-without-struct-in-golang.html
 
 https://github.com/tsawler/bookings
+
+
+https://gobuffalo.io/en/docs/db/getting-started SODA CLI
+$ soda =v 
+$ which soda
+$ % soda -v
+
+export PATH="$HOME/go/bin:$PATH"
+source .zprofile
+
+In Windows => users\go
