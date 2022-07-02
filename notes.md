@@ -39,3 +39,9 @@ export PATH="$HOME/go/bin:$PATH"
 source .zprofile
 
 In Windows => users\go
+
+===
+
+
+https://github.com/jackc/pgx
+go get .../v4
